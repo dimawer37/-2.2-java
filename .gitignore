@@ -1,0 +1,35 @@
+Thumbs.db *
+.DS_Store *
+HELP.md
+.gradle
+build /
+цель /
+.apt_generated
+.classpath
+.factorypath
+.проект
+.настройки
+.springBeans
+.sts4-кеш
+.idea
+* .iws
+* .iml
+* .ipr
+из /
+/ nbproject / частный /
+/ nbbuild /
+/ dist /
+/ nbdist /
+/ .nb-gradle /
+.vscode /
+* .jar
+* .war
+* .nar
+* .ear
+* .zip
+* .tar.gz
+* .rar
+! Градл / обертка / gradle-wrapper.jar
+! .mvn / обертка / maven-wrapper.jar
+! ** / src / main / **
+! ** / SRC / тест / **
